@@ -15,8 +15,12 @@ void draw(){
  // translate(width/2,height/2);
   background(#000000);
   rotate(angle);
+  ellipse(width/4-c,height/4-c,20,20);
+  ellipse(width/1.5-c,height/1.5-c,20,20);
+  ellipse(width/1.5+c,height/1.5+c,20,20);
   ellipse(width/2-c,height/2-c,20,20);
   ellipse(width/2+c,height/2+c,20,20);
+  ellipse(width/4+c,height/4+c,20,20);
   c-=0.0001;
    Avel+=Acc;
    angle+=Avel;
