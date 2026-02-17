@@ -27,7 +27,6 @@ Some snapshots and a short demo video:
 
   <video src="https://user-images.githubusercontent.com/73593914/175490767-8ac544bb-9ee8-4b22-aa64-e9d81c2d9fa2.mov" controls loop muted playsinline></video>
 
-  [Open video in a new tab](https://user-images.githubusercontent.com/73593914/175490767-8ac544bb-9ee8-4b22-aa64-e9d81c2d9fa2.mov)
 - A few favourite frames:
   - <img width="498" alt="oscillation_1" src="https://user-images.githubusercontent.com/73593914/175491313-8fc2c45b-3f9d-4529-9332-ebe3a04d322e.png">
   - ![trippy](https://user-images.githubusercontent.com/73593914/175492392-5a496336-3db3-473d-abce-279d187373bb.png)
